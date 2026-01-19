@@ -52,14 +52,14 @@ Please add papers to the appropriate category:
 
 ### Guidelines
 
-- ✅ Papers should be peer-reviewed or from reputable preprint servers (arXiv, medRxiv, bioRxiv)
-- ✅ Include all available links (PDF, Code, Project page)
-- ✅ Place papers in **reverse chronological order** within each section (newest first)
-- ✅ Use consistent formatting
-- ✅ Add a brief description (1-2 sentences) for significant papers using `>` blockquote
-- ❌ Do not include papers without accessible links
-- ❌ Do not include duplicate entries
-- ❌ Do not include papers unrelated to medical world models
+- Papers should be peer-reviewed or from reputable preprint servers (arXiv, medRxiv, bioRxiv)
+- Include all available links (PDF, Code, Project page)
+- Place papers in **reverse chronological order** within each section (newest first)
+- Use consistent formatting
+- Add a brief description (1-2 sentences) for significant papers using `>` blockquote
+- Do not include papers without accessible links
+- Do not include duplicate entries
+- Do not include papers unrelated to medical world models
 
 ### Adding a New Category
 
@@ -112,26 +112,9 @@ Update: [Section Name] with new resources
 
 This repository focuses on **Medical World Models**, which includes:
 
-- ✅ Disease progression simulation
-- ✅ Patient trajectory prediction
-- ✅ Treatment response modeling
-- ✅ Patient digital twins
-- ✅ Clinical decision support with world model components
-- ✅ Reinforcement learning for healthcare (with world model aspects)
-- ✅ Medical image synthesis for simulation
-
-**Out of scope:**
-
-- ❌ General medical image classification (without simulation/prediction)
-- ❌ General NLP for healthcare (without trajectory/world model aspects)
-- ❌ Non-medical world models
-
-## Questions?
-
-Feel free to open an issue if you have any questions!
+- Disease progression simulation
+- Patient trajectory prediction
+- Treatment response modeling
 
 ---
 
-Thank you for helping improve this resource! 🙏
-
-Your contributions help the research community stay up-to-date with the latest advances in Medical World Models.
