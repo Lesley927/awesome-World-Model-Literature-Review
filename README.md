@@ -41,10 +41,6 @@ A curated list of awesome resources on **Medical World Models** for disease prog
   Nadia Terranova, et al.  
   *Clinical Pharmacology & Therapeutics, Jan. 2024* | [[PDF]](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3153)
 
-- **Reinforcement Learning for Clinical Decision Support in Critical Care: Comprehensive Review**  
-  Siqi Liu, Kay Choong See, Kee Yuan Ngiam, Leo Anthony Celi, Xingzhi Sun, Mengling Feng  
-  *J Med Internet Res, Jul. 2020* | [[PDF]](https://www.jmir.org/2020/7/e18477)
-
 - **A Primer on Reinforcement Learning in Medicine for Clinicians**  
   Wenhao Zhang, et al.  
   *npj Digital Medicine, Nov. 2024* | [[PDF]](https://www.nature.com/articles/s41746-024-01316-0)
@@ -59,53 +55,22 @@ A curated list of awesome resources on **Medical World Models** for disease prog
 
 ### Disease Progression Simulation
 
-Papers focusing on simulating disease dynamics and progression over time.
 
-- **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning** [Jun., 2025]  
-  Yijun Yang, et al.  
-  *arXiv, 2025* | [[PDF]](https://arxiv.org/abs/2506.02327) [[Project]](https://yijun-yang.github.io/MeWM/)
-  > The first world model in medicine that visually predicts future disease states based on clinical decisions.
 
 ### Patient Trajectory Prediction
 
 Papers on predicting patient health trajectories and future states.
-
-- **Zero Shot Health Trajectory Prediction Using Transformer** [Sep., 2024]  
-  Pawel Renc, et al.  
-  *npj Digital Medicine, 2024* | [[PDF]](https://www.nature.com/articles/s41746-024-01235-0)
-  > ETHOS: Enhanced Transformer for Health Outcome Simulation using Patient Health Timelines.
 
 - **Large Language Models Forecast Patient Health Trajectories Enabling Digital Twins** [Oct., 2025]  
   Various Authors  
   *npj Digital Medicine, 2025* | [[PDF]](https://www.nature.com/articles/s41746-025-02004-3)
   > DT-GPT: Digital Twin Generative Pretrained Transformer for clinical trajectory prediction.
 
-- **Predicting Healthcare Trajectories from Medical Records: A Deep Learning Approach** [Apr., 2017]  
-  Trang Pham, Truyen Tran, Dinh Phung, Svetha Venkatesh  
-  *Journal of Biomedical Informatics, 2017* | [[PDF]](https://www.sciencedirect.com/science/article/pii/S1532046417300710)
-  > DeepCare: end-to-end deep dynamic neural network for patient trajectory modeling.
-
-- **Modelling Patient Trajectories Using Multimodal Information** [Sep., 2022]  
-  Various Authors  
-  *Journal of Biomedical Informatics, 2022* | [[PDF]](https://www.sciencedirect.com/science/article/pii/S1532046422002003)
-
-- **Trajectory-Ordered Objectives for Self-Supervised Representation Learning of Temporal Healthcare Data Using Transformers** [Jun., 2025]  
-  Various Authors  
-  *JMIR Medical Informatics, 2025* | [[PDF]](https://medinform.jmir.org/2025/1/e68138)
-  > TOO-BERT: Transformer-based model for EHR trajectory modeling.
-
-- **Real-world Patient Trajectory Prediction from Clinical Notes Using Artificial Neural Networks and UMLS-Based Extraction of Concepts**  
-  Various Authors  
-  *PMC, 2022* | [[PDF]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8982755/)
 
 ### Treatment Response Modeling
 
 Papers on modeling and predicting treatment responses.
 
-- **Simultaneous Forecasting of Vital Sign Trajectories in the ICU** [Apr., 2025]  
-  Various Authors  
-  *Scientific Reports, 2025* | [[PDF]](https://www.nature.com/articles/s41598-025-99719-w)
-  > TFT-multi: Global model for predicting multiple vital trajectories simultaneously.
 
 ---
 
@@ -128,14 +93,6 @@ Papers on creating digital representations of patients for simulation and predic
 ### Reinforcement Learning for Healthcare
 
 Papers applying RL to healthcare decision-making.
-
-- **Reinforcement Learning and Its Clinical Applications Within Healthcare: A Systematic Review of Precision Medicine and Dynamic Treatment Regimes** [Jul., 2025]  
-  Various Authors  
-  *Healthcare, 2025* | [[PDF]](https://www.mdpi.com/2227-9032/13/14/1752)
-
-- **Reinforcement Learning in Personalized Medicine: A Comprehensive Review of Treatment Optimization Strategies**  
-  Various Authors  
-  *PMC, 2025* | [[PDF]](https://pmc.ncbi.nlm.nih.gov/articles/PMC12096033/)
 
 - **Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning** [Jun., 2025]  
   Paul Stangel, et al.  
@@ -182,13 +139,11 @@ Papers on generating synthetic medical images for simulation.
 ## Other Resources
 
 ### Tutorials & Courses
-
-- [Reinforcement Learning in Healthcare - Stanford CS](https://web.stanford.edu/class/cs234/)
+ 
 - [Machine Learning for Healthcare - MIT](https://mlhc.github.io/)
 
 ### Related Awesome Lists
 
-- [awesome-healthcare-foundation-models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
 - [awesome-medical-vision-language-models](https://github.com/yangzhou12/awesome-medical-vision-language-models)
 - [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging)
 
@@ -203,7 +158,6 @@ Papers on generating synthetic medical images for simulation.
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 To add a paper:
 1. Fork this repository
@@ -237,11 +191,6 @@ If you find this repository useful, please consider citing:
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/awesome-medical-world-models&type=Date)](https://star-history.com/#yourusername/awesome-medical-world-models&Date)
-
----
 
 ## License
 
