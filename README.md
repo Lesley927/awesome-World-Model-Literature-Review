@@ -8,7 +8,7 @@ A curated list of awesome resources on **Medical World Models** for disease prog
 
 > Medical World Models are generative models that simulate future disease states conditioned on clinical decisions, enabling AI-driven precision medicine by bridging generative modeling with medical decision-making.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Survey Papers](#survey-papers)
 - [Medical World Models](#medical-world-models)
@@ -155,7 +155,6 @@ Papers on adaptive treatment strategies.
 
 Papers on generating synthetic medical images for simulation.
 
-*Coming soon - contributions welcome!*
 
 ---
 
@@ -252,7 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Last Updated:** January 2025
 
-**Maintainer:** [Your Name](https://github.com/yourusername)
+**Maintainer:** [Lesley LI](https://github.com/Lesley927)
 
 ---
 
