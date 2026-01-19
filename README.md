@@ -1,4 +1,4 @@
-# Awesome Medical World Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Medical World Models (https://awesome.re)
 
 A curated list of awesome resources on **Medical World Models** for disease progression simulation, treatment planning, and clinical decision support.
 
