@@ -17,7 +17,6 @@ A curated list of awesome resources on **Medical World Models** for disease prog
   - [Treatment Response Modeling](#treatment-response-modeling)
 - [Patient Digital Twins](#patient-digital-twins)
 - [Clinical Decision Support](#clinical-decision-support)
-  - [Reinforcement Learning for Healthcare](#reinforcement-learning-for-healthcare)
   - [Dynamic Treatment Regimes](#dynamic-treatment-regimes)
 - [Medical Image Synthesis](#medical-image-synthesis)
 - [Evaluation & Benchmarks](#evaluation--benchmarks)
