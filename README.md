@@ -44,17 +44,24 @@ A curated list of awesome resources on **Medical World Models** for disease prog
   Wenhao Zhang, et al.  
   *npj Digital Medicine, Nov. 2024* | [[PDF]](https://www.nature.com/articles/s41746-024-01316-0)
 
-- **Combining Simulation and Machine Learning in Healthcare: A Literature Review**  
-  Various Authors  
-  *Journal of Simulation, 2025* | [[PDF]](https://www.tandfonline.com/doi/full/10.1080/17477778.2025.2549092)
+- **Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning**
+  Mohammad Areeb Qazi, Maryam Nadeem, Mohammad Yaqub
+  *arXiv, Nov.2025* | [[PDF]](https://arxiv.org/pdf/2511.16333)
 
 ---
 
 ## Medical World Models
 
 ### Disease Progression Simulation
-
-
+- **Surgical Vision World Model**
+  Saurabh Koju, Saurav Bastola, Prashant Shrestha, et al.
+  *arXiv, Oct.2025* | [[PDF]]( https://arxiv.org/pdf/2503.02904)
+- **X-WIN: Building Chest Radiograph World Model via Predictive Sensing**
+  Zefan Yang, Ge Wang, James Hendler, Mannudeep K. Kalra, Pingkun Yan
+  *arXiv, Nov.2025* | [[PDF]](https://arxiv.org/pdf/2511.14918)
+- **CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space**
+  Tianxingjian Ding, Yuanhao Zou, Chen Chen, Mubarak Shah, Yu Tian
+  *arXiv, Dec.2025* | [[PDF]](https://arxiv.org/pdf/2512.08029)
 
 ### Patient Trajectory Prediction
 
